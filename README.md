@@ -1,6 +1,6 @@
-Sure, here is the revised README file without the NAT Gateway concept:
 
-```markdown
+
+
 # AWS VPC Setup with Terraform
 
 This repository contains Terraform configurations to set up an AWS VPC with public and private subnets. The public subnet is associated with an Internet Gateway.
